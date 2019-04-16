@@ -1,0 +1,35 @@
+2019-04-16 17:16:22,587 [Worker-12] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '/pom.xml' C:\Jenkins\JenkinsProject\MavenProj\pom.xml
+2019-04-16 17:16:24,145 [Worker-12] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: Mavenpack:MavenProj:0.0.1-SNAPSHOT @ C:\Jenkins\JenkinsProject\MavenProj\pom.xml.
+2019-04-16 17:16:25,757 [Worker-12] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /MavenProj/src/main/java
+2019-04-16 17:16:25,758 [Worker-12] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /MavenProj/src/main/resources
+2019-04-16 17:16:25,759 [Worker-12] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /MavenProj/src/test/java
+2019-04-16 17:16:29,713 [Worker-12] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 7 sec
+2019-04-16 17:16:30,615 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-04-16 17:16:30,651 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-04-16 17:16:30,661 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-04-16 17:16:30,675 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Jenkins\JenkinsProject\MavenProj\src\test\resources
+2019-04-16 17:16:30,968 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-04-16 17:16:30,973 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-04-16 17:16:30,974 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-04-16 17:16:30,975 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Jenkins\JenkinsProject\MavenProj\src\test\resources
+2019-04-16 17:17:09,698 [Worker-2] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-04-16 17:17:09,703 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-04-16 17:17:09,722 [Worker-2] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-04-16 17:17:09,725 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Jenkins\JenkinsProject\MavenProj\src\test\resources
+2019-04-16 17:17:10,857 [Worker-5] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-04-16 17:17:10,859 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-04-16 17:17:10,861 [Worker-5] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-04-16 17:17:10,863 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Jenkins\JenkinsProject\MavenProj\src\test\resources
+2019-04-16 17:17:22,540 [Worker-11] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-04-16 17:17:22,541 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-04-16 17:17:22,545 [Worker-11] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-04-16 17:17:22,546 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Jenkins\JenkinsProject\MavenProj\src\test\resources
+2019-04-16 17:17:28,220 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2019-04-16 17:17:35,152 [Worker-18] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Jenkins\JenkinsProject\MavenProj
+2019-04-16 17:17:35,153 [Worker-18] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B compile
+2019-04-16 17:17:44,575 [main] INFO  o.e.m2e.actions.ExecutePomAction - Using existing launch configuration
+2019-04-16 17:17:44,707 [Worker-17] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Jenkins\JenkinsProject\MavenProj
+2019-04-16 17:17:44,707 [Worker-17] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B compile
+2019-04-16 17:17:48,984 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2019-04-16 17:17:58,172 [Worker-2] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Jenkins\JenkinsProject\MavenProj
+2019-04-16 17:17:58,172 [Worker-2] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B compile package
