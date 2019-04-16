@@ -33,3 +33,25 @@
 2019-04-16 17:17:48,984 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
 2019-04-16 17:17:58,172 [Worker-2] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Jenkins\JenkinsProject\MavenProj
 2019-04-16 17:17:58,172 [Worker-2] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B compile package
+2019-04-16 17:23:34,016 [Worker-23] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-04-16 17:23:34,023 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-04-16 17:23:34,026 [Worker-23] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-04-16 17:23:34,028 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Jenkins\JenkinsProject\MavenProj\src\test\resources
+2019-04-16 17:24:31,752 [Worker-23] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-04-16 17:24:31,759 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-04-16 17:24:31,766 [Worker-23] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-04-16 17:24:31,767 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Jenkins\JenkinsProject\MavenProj\src\test\resources
+2019-04-16 17:24:59,109 [Worker-21] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-04-16 17:24:59,114 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-04-16 17:24:59,127 [Worker-21] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-04-16 17:24:59,129 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Jenkins\JenkinsProject\MavenProj\src\test\resources
+2019-04-16 17:25:09,680 [Worker-10] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-04-16 17:25:09,681 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-04-16 17:25:09,683 [Worker-10] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-04-16 17:25:09,684 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Jenkins\JenkinsProject\MavenProj\src\test\resources
+2019-04-16 17:25:22,490 [Worker-21] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Jenkins\JenkinsProject\MavenProj
+2019-04-16 17:25:22,491 [Worker-21] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B compile package
+2019-04-16 17:25:22,593 [Worker-23] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-04-16 17:25:22,596 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-04-16 17:25:22,601 [Worker-23] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-04-16 17:25:22,604 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Jenkins\JenkinsProject\MavenProj\src\test\resources
