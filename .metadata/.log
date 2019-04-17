@@ -134,3 +134,180 @@ This warning can be switched off on the Team > Git > Confirmations and Warnings 
 
 !ENTRY org.eclipse.m2e.logback.appender 2 0 2019-04-17 09:56:50.924
 !MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-04-17 10:24:58.624
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-04-17 10:24:58.630
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+!SESSION 2019-04-17 11:09:37.855 -----------------------------------------------
+eclipse.buildId=4.7.0.I20160915-0230
+java.version=1.8.0_201
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.jee.product -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.jee.product -data file:/C:/Jenkins/JenkinsProject/ -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.egit.ui 2 0 2019-04-17 11:10:25.468
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\A08019DIRP_C2C.02.02'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-04-17 11:10:32.698
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-04-17 11:10:32.734
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-04-17 11:11:50.796
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-04-17 11:11:50.799
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.jface.text 2 0 2019-04-17 11:12:17.146
+!MESSAGE Duplicate template id: 'org.eclipse.wst.xslt.templates.xpath.number'
+
+!ENTRY org.eclipse.jface.text 2 0 2019-04-17 11:12:17.148
+!MESSAGE Duplicate template id: 'org.eclipse.wst.xslt.templates.xpath.round'
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-04-17 11:12:17.677
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-04-17 11:12:17.702
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-04-17 11:15:20.788
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-04-17 11:15:20.790
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-04-17 11:15:23.048
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-04-17 11:15:23.053
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-04-17 11:19:11.673
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-04-17 11:19:11.676
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-04-17 11:19:45.199
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-04-17 11:19:45.203
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.testng.eclipse 1 0 2019-04-17 11:19:49.245
+!MESSAGE [TestNGLaunchShortcut] Examining Java element:[Working copy] seleniumTest.java [in Pack [in src/test/java [in SeleniumTestProj]]]
+  package Pack
+  import org.testng.annotations.Test
+  import org.testng.annotations.BeforeMethod
+  import org.openqa.selenium.By
+  import org.openqa.selenium.WebDriver
+  import org.openqa.selenium.chrome.ChromeDriver
+  import org.testng.annotations.AfterMethod
+  class seleniumTest
+    WebDriver driver
+    void Login()
+    void beforeMethod()
+    void afterMethod()
+
+!ENTRY org.testng.eclipse 1 0 2019-04-17 11:19:49.753
+!MESSAGE [TestNGLaunchConfigurationDelegate] Launching:
+  Classpath: C:\Jenkins\eclipse-jee-oxygen-M2-win32-x86_64\eclipse\plugins\org.testng.eclipse_6.9.13.201609291640\lib\testng-remote.jar C:\Jenkins\JenkinsProject\SeleniumTestProj\target\test-classes C:\Jenkins\JenkinsProject\SeleniumTestProj\target\classes C:\Users\A08019DIRP_C2C.02.02\.m2\repository\org\testng\testng\6.14.3\testng-6.14.3.jar C:\Users\A08019DIRP_C2C.02.02\.m2\repository\com\beust\jcommander\1.72\jcommander-1.72.jar C:\Users\A08019DIRP_C2C.02.02\.m2\repository\org\apache-extras\beanshell\bsh\2.0b6\bsh-2.0b6.jar C:\Users\A08019DIRP_C2C.02.02\.m2\repository\org\webjars\npm\selenium-webdriver\2.53.3\selenium-webdriver-2.53.3.jar C:\Users\A08019DIRP_C2C.02.02\.m2\repository\org\webjars\npm\adm-zip\0.4.4\adm-zip-0.4.4.jar C:\Users\A08019DIRP_C2C.02.02\.m2\repository\org\webjars\npm\ws\2.0.0-beta.2\ws-2.0.0-beta.2.jar C:\Users\A08019DIRP_C2C.02.02\.m2\repository\org\webjars\npm\ultron\1.1.1\ultron-1.1.1.jar C:\Users\A08019DIRP_C2C.02.02\.m2\repository\org\webjars\npm\tmp\0.0.24\tmp-0.0.24.jar C:\Users\A08019DIRP_C2C.02.02\.m2\repository\org\webjars\npm\xml2js\0.4.4\xml2js-0.4.4.jar C:\Users\A08019DIRP_C2C.02.02\.m2\repository\org\webjars\npm\sax\0.6.1\sax-0.6.1.jar C:\Users\A08019DIRP_C2C.02.02\.m2\repository\org\webjars\npm\xmlbuilder\10.0.0\xmlbuilder-10.0.0.jar C:\Users\A08019DIRP_C2C.02.02\.m2\repository\org\webjars\npm\rimraf\2.6.3\rimraf-2.6.3.jar C:\Users\A08019DIRP_C2C.02.02\.m2\repository\org\webjars\npm\glob\7.1.3\glob-7.1.3.jar C:\Users\A08019DIRP_C2C.02.02\.m2\repository\org\webjars\npm\inflight\1.0.6\inflight-1.0.6.jar C:\Users\A08019DIRP_C2C.02.02\.m2\repository\org\webjars\npm\wrappy\1.0.2\wrappy-1.0.2.jar C:\Users\A08019DIRP_C2C.02.02\.m2\repository\org\webjars\npm\fs.realpath\1.0.0\fs.realpath-1.0.0.jar C:\Users\A08019DIRP_C2C.02.02\.m2\repository\org\webjars\npm\path-is-absolute\1.0.1\path-is-absolute-1.0.1.jar C:\Users\A08019DIRP_C2C.02.02\.m2\repository\org\webjars\npm\inherits\2.0.3\inherits-2.0.3.jar C:\Users\A08019DIRP_C2C.02.02\.m2\repository\org\webjars\npm\once\1.4.0\once-1.4.0.jar C:\Users\A08019DIRP_C2C.02.02\.m2\repository\org\webjars\npm\minimatch\3.0.4\minimatch-3.0.4.jar C:\Users\A08019DIRP_C2C.02.02\.m2\repository\org\webjars\npm\brace-expansion\1.1.11\brace-expansion-1.1.11.jar C:\Users\A08019DIRP_C2C.02.02\.m2\repository\org\webjars\npm\balanced-match\1.0.0\balanced-match-1.0.0.jar C:\Users\A08019DIRP_C2C.02.02\.m2\repository\org\webjars\npm\concat-map\0.0.1\concat-map-0.0.1.jar C:\Users\A08019DIRP_C2C.02.02\.m2\repository\org\seleniumhq\selenium\selenium-java\3.141.59\selenium-java-3.141.59.jar C:\Users\A08019DIRP_C2C.02.02\.m2\repository\org\seleniumhq\selenium\selenium-api\3.141.59\selenium-api-3.141.59.jar C:\Users\A08019DIRP_C2C.02.02\.m2\repository\org\seleniumhq\selenium\selenium-chrome-driver\3.141.59\selenium-chrome-driver-3.141.59.jar C:\Users\A08019DIRP_C2C.02.02\.m2\repository\org\seleniumhq\selenium\selenium-edge-driver\3.141.59\selenium-edge-driver-3.141.59.jar C:\Users\A08019DIRP_C2C.02.02\.m2\repository\org\seleniumhq\selenium\selenium-firefox-driver\3.141.59\selenium-firefox-driver-3.141.59.jar C:\Users\A08019DIRP_C2C.02.02\.m2\repository\org\seleniumhq\selenium\selenium-ie-driver\3.141.59\selenium-ie-driver-3.141.59.jar C:\Users\A08019DIRP_C2C.02.02\.m2\repository\org\seleniumhq\selenium\selenium-opera-driver\3.141.59\selenium-opera-driver-3.141.59.jar C:\Users\A08019DIRP_C2C.02.02\.m2\repository\org\seleniumhq\selenium\selenium-remote-driver\3.141.59\selenium-remote-driver-3.141.59.jar C:\Users\A08019DIRP_C2C.02.02\.m2\repository\org\seleniumhq\selenium\selenium-safari-driver\3.141.59\selenium-safari-driver-3.141.59.jar C:\Users\A08019DIRP_C2C.02.02\.m2\repository\org\seleniumhq\selenium\selenium-support\3.141.59\selenium-support-3.141.59.jar C:\Users\A08019DIRP_C2C.02.02\.m2\repository\net\bytebuddy\byte-buddy\1.8.15\byte-buddy-1.8.15.jar C:\Users\A08019DIRP_C2C.02.02\.m2\repository\org\apache\commons\commons-exec\1.3\commons-exec-1.3.jar C:\Users\A08019DIRP_C2C.02.02\.m2\repository\com\google\guava\guava\25.0-jre\guava-25.0-jre.jar C:\Users\A08019DIRP_C2C.02.02\.m2\repository\com\google\code\findbugs\jsr305\1.3.9\jsr305-1.3.9.jar C:\Users\A08019DIRP_C2C.02.02\.m2\repository\org\checkerframework\checker-compat-qual\2.0.0\checker-compat-qual-2.0.0.jar C:\Users\A08019DIRP_C2C.02.02\.m2\repository\com\google\errorprone\error_prone_annotations\2.1.3\error_prone_annotations-2.1.3.jar C:\Users\A08019DIRP_C2C.02.02\.m2\repository\com\google\j2objc\j2objc-annotations\1.1\j2objc-annotations-1.1.jar C:\Users\A08019DIRP_C2C.02.02\.m2\repository\org\codehaus\mojo\animal-sniffer-annotations\1.14\animal-sniffer-annotations-1.14.jar C:\Users\A08019DIRP_C2C.02.02\.m2\repository\com\squareup\okhttp3\okhttp\3.11.0\okhttp-3.11.0.jar C:\Users\A08019DIRP_C2C.02.02\.m2\repository\com\squareup\okio\okio\1.14.0\okio-1.14.0.jar
+  VMArgs:    -ea
+  Class:     org.testng.remote.RemoteTestNG
+  Args:      -serport 60167 -protocol json -d C:\Jenkins\JenkinsProject\SeleniumTestProj\test-output C:\Users\A08019~1.02\AppData\Local\Temp\testng-eclipse--5903215\testng-customsuite.xml
+java -ea -classpath C:\Jenkins\eclipse-jee-oxygen-M2-win32-x86_64\eclipse\plugins\org.testng.eclipse_6.9.13.201609291640\lib\testng-remote.jar:C:\Jenkins\JenkinsProject\SeleniumTestProj\target\test-classes:C:\Jenkins\JenkinsProject\SeleniumTestProj\target\classes:C:\Users\A08019DIRP_C2C.02.02\.m2\repository\org\testng\testng\6.14.3\testng-6.14.3.jar:C:\Users\A08019DIRP_C2C.02.02\.m2\repository\com\beust\jcommander\1.72\jcommander-1.72.jar:C:\Users\A08019DIRP_C2C.02.02\.m2\repository\org\apache-extras\beanshell\bsh\2.0b6\bsh-2.0b6.jar:C:\Users\A08019DIRP_C2C.02.02\.m2\repository\org\webjars\npm\selenium-webdriver\2.53.3\selenium-webdriver-2.53.3.jar:C:\Users\A08019DIRP_C2C.02.02\.m2\repository\org\webjars\npm\adm-zip\0.4.4\adm-zip-0.4.4.jar:C:\Users\A08019DIRP_C2C.02.02\.m2\repository\org\webjars\npm\ws\2.0.0-beta.2\ws-2.0.0-beta.2.jar:C:\Users\A08019DIRP_C2C.02.02\.m2\repository\org\webjars\npm\ultron\1.1.1\ultron-1.1.1.jar:C:\Users\A08019DIRP_C2C.02.02\.m2\repository\org\webjars\npm\tmp\0.0.24\tmp-0.0.24.jar:C:\Users\A08019DIRP_C2C.02.02\.m2\repository\org\webjars\npm\xml2js\0.4.4\xml2js-0.4.4.jar:C:\Users\A08019DIRP_C2C.02.02\.m2\repository\org\webjars\npm\sax\0.6.1\sax-0.6.1.jar:C:\Users\A08019DIRP_C2C.02.02\.m2\repository\org\webjars\npm\xmlbuilder\10.0.0\xmlbuilder-10.0.0.jar:C:\Users\A08019DIRP_C2C.02.02\.m2\repository\org\webjars\npm\rimraf\2.6.3\rimraf-2.6.3.jar:C:\Users\A08019DIRP_C2C.02.02\.m2\repository\org\webjars\npm\glob\7.1.3\glob-7.1.3.jar:C:\Users\A08019DIRP_C2C.02.02\.m2\repository\org\webjars\npm\inflight\1.0.6\inflight-1.0.6.jar:C:\Users\A08019DIRP_C2C.02.02\.m2\repository\org\webjars\npm\wrappy\1.0.2\wrappy-1.0.2.jar:C:\Users\A08019DIRP_C2C.02.02\.m2\repository\org\webjars\npm\fs.realpath\1.0.0\fs.realpath-1.0.0.jar:C:\Users\A08019DIRP_C2C.02.02\.m2\repository\org\webjars\npm\path-is-absolute\1.0.1\path-is-absolute-1.0.1.jar:C:\Users\A08019DIRP_C2C.02.02\.m2\repository\org\webjars\npm\inherits\2.0.3\inherits-2.0.3.jar:C:\Users\A08019DIRP_C2C.02.02\.m2\repository\org\webjars\npm\once\1.4.0\once-1.4.0.jar:C:\Users\A08019DIRP_C2C.02.02\.m2\repository\org\webjars\npm\minimatch\3.0.4\minimatch-3.0.4.jar:C:\Users\A08019DIRP_C2C.02.02\.m2\repository\org\webjars\npm\brace-expansion\1.1.11\brace-expansion-1.1.11.jar:C:\Users\A08019DIRP_C2C.02.02\.m2\repository\org\webjars\npm\balanced-match\1.0.0\balanced-match-1.0.0.jar:C:\Users\A08019DIRP_C2C.02.02\.m2\repository\org\webjars\npm\concat-map\0.0.1\concat-map-0.0.1.jar:C:\Users\A08019DIRP_C2C.02.02\.m2\repository\org\seleniumhq\selenium\selenium-java\3.141.59\selenium-java-3.141.59.jar:C:\Users\A08019DIRP_C2C.02.02\.m2\repository\org\seleniumhq\selenium\selenium-api\3.141.59\selenium-api-3.141.59.jar:C:\Users\A08019DIRP_C2C.02.02\.m2\repository\org\seleniumhq\selenium\selenium-chrome-driver\3.141.59\selenium-chrome-driver-3.141.59.jar:C:\Users\A08019DIRP_C2C.02.02\.m2\repository\org\seleniumhq\selenium\selenium-edge-driver\3.141.59\selenium-edge-driver-3.141.59.jar:C:\Users\A08019DIRP_C2C.02.02\.m2\repository\org\seleniumhq\selenium\selenium-firefox-driver\3.141.59\selenium-firefox-driver-3.141.59.jar:C:\Users\A08019DIRP_C2C.02.02\.m2\repository\org\seleniumhq\selenium\selenium-ie-driver\3.141.59\selenium-ie-driver-3.141.59.jar:C:\Users\A08019DIRP_C2C.02.02\.m2\repository\org\seleniumhq\selenium\selenium-opera-driver\3.141.59\selenium-opera-driver-3.141.59.jar:C:\Users\A08019DIRP_C2C.02.02\.m2\repository\org\seleniumhq\selenium\selenium-remote-driver\3.141.59\selenium-remote-driver-3.141.59.jar:C:\Users\A08019DIRP_C2C.02.02\.m2\repository\org\seleniumhq\selenium\selenium-safari-driver\3.141.59\selenium-safari-driver-3.141.59.jar:C:\Users\A08019DIRP_C2C.02.02\.m2\repository\org\seleniumhq\selenium\selenium-support\3.141.59\selenium-support-3.141.59.jar:C:\Users\A08019DIRP_C2C.02.02\.m2\repository\net\bytebuddy\byte-buddy\1.8.15\byte-buddy-1.8.15.jar:C:\Users\A08019DIRP_C2C.02.02\.m2\repository\org\apache\commons\commons-exec\1.3\commons-exec-1.3.jar:C:\Users\A08019DIRP_C2C.02.02\.m2\repository\com\google\guava\guava\25.0-jre\guava-25.0-jre.jar:C:\Users\A08019DIRP_C2C.02.02\.m2\repository\com\google\code\findbugs\jsr305\1.3.9\jsr305-1.3.9.jar:C:\Users\A08019DIRP_C2C.02.02\.m2\repository\org\checkerframework\checker-compat-qual\2.0.0\checker-compat-qual-2.0.0.jar:C:\Users\A08019DIRP_C2C.02.02\.m2\repository\com\google\errorprone\error_prone_annotations\2.1.3\error_prone_annotations-2.1.3.jar:C:\Users\A08019DIRP_C2C.02.02\.m2\repository\com\google\j2objc\j2objc-annotations\1.1\j2objc-annotations-1.1.jar:C:\Users\A08019DIRP_C2C.02.02\.m2\repository\org\codehaus\mojo\animal-sniffer-annotations\1.14\animal-sniffer-annotations-1.14.jar:C:\Users\A08019DIRP_C2C.02.02\.m2\repository\com\squareup\okhttp3\okhttp\3.11.0\okhttp-3.11.0.jar:C:\Users\A08019DIRP_C2C.02.02\.m2\repository\com\squareup\okio\okio\1.14.0\okio-1.14.0.jar org.testng.remote.RemoteTestNG -serport 60167 -protocol json -d C:\Jenkins\JenkinsProject\SeleniumTestProj\test-output C:\Users\A08019~1.02\AppData\Local\Temp\testng-eclipse--5903215\testng-customsuite.xml
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-04-17 11:20:07.862
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-04-17 11:20:07.867
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-04-17 11:20:20.875
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-04-17 11:20:20.879
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.testng.eclipse 1 0 2019-04-17 11:20:24.898
+!MESSAGE [TestNGLaunchShortcut] Examining Java element:[Working copy] seleniumTest.java [in Pack [in src/test/java [in SeleniumTestProj]]]
+  package Pack
+  import org.testng.annotations.Test
+  import org.testng.annotations.BeforeMethod
+  import org.openqa.selenium.By
+  import org.openqa.selenium.WebDriver
+  import org.openqa.selenium.chrome.ChromeDriver
+  import org.testng.annotations.AfterMethod
+  class seleniumTest
+    WebDriver driver
+    void Login()
+    void beforeMethod()
+    void afterMethod()
+
+!ENTRY org.testng.eclipse 1 0 2019-04-17 11:20:25.291
+!MESSAGE [TestNGLaunchConfigurationDelegate] Launching:
+  Classpath: C:\Jenkins\eclipse-jee-oxygen-M2-win32-x86_64\eclipse\plugins\org.testng.eclipse_6.9.13.201609291640\lib\testng-remote.jar C:\Jenkins\JenkinsProject\SeleniumTestProj\target\test-classes C:\Jenkins\JenkinsProject\SeleniumTestProj\target\classes C:\Jenkins\eclipse-jee-oxygen-M2-win32-x86_64\eclipse\plugins\org.testng.eclipse_6.9.13.201609291640\lib\testng.jar C:\Jenkins\eclipse-jee-oxygen-M2-win32-x86_64\eclipse\plugins\org.testng.eclipse_6.9.13.201609291640\lib\jcommander.jar C:\Jenkins\eclipse-jee-oxygen-M2-win32-x86_64\eclipse\plugins\org.testng.eclipse_6.9.13.201609291640\lib\bsh-2.0b4.jar C:\Jenkins\eclipse-jee-oxygen-M2-win32-x86_64\eclipse\plugins\org.testng.eclipse_6.9.13.201609291640\lib\snakeyaml.jar C:\Users\A08019DIRP_C2C.02.02\.m2\repository\org\testng\testng\6.14.3\testng-6.14.3.jar C:\Users\A08019DIRP_C2C.02.02\.m2\repository\com\beust\jcommander\1.72\jcommander-1.72.jar C:\Users\A08019DIRP_C2C.02.02\.m2\repository\org\apache-extras\beanshell\bsh\2.0b6\bsh-2.0b6.jar C:\Users\A08019DIRP_C2C.02.02\.m2\repository\org\webjars\npm\selenium-webdriver\2.53.3\selenium-webdriver-2.53.3.jar C:\Users\A08019DIRP_C2C.02.02\.m2\repository\org\webjars\npm\adm-zip\0.4.4\adm-zip-0.4.4.jar C:\Users\A08019DIRP_C2C.02.02\.m2\repository\org\webjars\npm\ws\2.0.0-beta.2\ws-2.0.0-beta.2.jar C:\Users\A08019DIRP_C2C.02.02\.m2\repository\org\webjars\npm\ultron\1.1.1\ultron-1.1.1.jar C:\Users\A08019DIRP_C2C.02.02\.m2\repository\org\webjars\npm\tmp\0.0.24\tmp-0.0.24.jar C:\Users\A08019DIRP_C2C.02.02\.m2\repository\org\webjars\npm\xml2js\0.4.4\xml2js-0.4.4.jar C:\Users\A08019DIRP_C2C.02.02\.m2\repository\org\webjars\npm\sax\0.6.1\sax-0.6.1.jar C:\Users\A08019DIRP_C2C.02.02\.m2\repository\org\webjars\npm\xmlbuilder\10.0.0\xmlbuilder-10.0.0.jar C:\Users\A08019DIRP_C2C.02.02\.m2\repository\org\webjars\npm\rimraf\2.6.3\rimraf-2.6.3.jar C:\Users\A08019DIRP_C2C.02.02\.m2\repository\org\webjars\npm\glob\7.1.3\glob-7.1.3.jar C:\Users\A08019DIRP_C2C.02.02\.m2\repository\org\webjars\npm\inflight\1.0.6\inflight-1.0.6.jar C:\Users\A08019DIRP_C2C.02.02\.m2\repository\org\webjars\npm\wrappy\1.0.2\wrappy-1.0.2.jar C:\Users\A08019DIRP_C2C.02.02\.m2\repository\org\webjars\npm\fs.realpath\1.0.0\fs.realpath-1.0.0.jar C:\Users\A08019DIRP_C2C.02.02\.m2\repository\org\webjars\npm\path-is-absolute\1.0.1\path-is-absolute-1.0.1.jar C:\Users\A08019DIRP_C2C.02.02\.m2\repository\org\webjars\npm\inherits\2.0.3\inherits-2.0.3.jar C:\Users\A08019DIRP_C2C.02.02\.m2\repository\org\webjars\npm\once\1.4.0\once-1.4.0.jar C:\Users\A08019DIRP_C2C.02.02\.m2\repository\org\webjars\npm\minimatch\3.0.4\minimatch-3.0.4.jar C:\Users\A08019DIRP_C2C.02.02\.m2\repository\org\webjars\npm\brace-expansion\1.1.11\brace-expansion-1.1.11.jar C:\Users\A08019DIRP_C2C.02.02\.m2\repository\org\webjars\npm\balanced-match\1.0.0\balanced-match-1.0.0.jar C:\Users\A08019DIRP_C2C.02.02\.m2\repository\org\webjars\npm\concat-map\0.0.1\concat-map-0.0.1.jar C:\Users\A08019DIRP_C2C.02.02\.m2\repository\org\seleniumhq\selenium\selenium-java\3.141.59\selenium-java-3.141.59.jar C:\Users\A08019DIRP_C2C.02.02\.m2\repository\org\seleniumhq\selenium\selenium-api\3.141.59\selenium-api-3.141.59.jar C:\Users\A08019DIRP_C2C.02.02\.m2\repository\org\seleniumhq\selenium\selenium-chrome-driver\3.141.59\selenium-chrome-driver-3.141.59.jar C:\Users\A08019DIRP_C2C.02.02\.m2\repository\org\seleniumhq\selenium\selenium-edge-driver\3.141.59\selenium-edge-driver-3.141.59.jar C:\Users\A08019DIRP_C2C.02.02\.m2\repository\org\seleniumhq\selenium\selenium-firefox-driver\3.141.59\selenium-firefox-driver-3.141.59.jar C:\Users\A08019DIRP_C2C.02.02\.m2\repository\org\seleniumhq\selenium\selenium-ie-driver\3.141.59\selenium-ie-driver-3.141.59.jar C:\Users\A08019DIRP_C2C.02.02\.m2\repository\org\seleniumhq\selenium\selenium-opera-driver\3.141.59\selenium-opera-driver-3.141.59.jar C:\Users\A08019DIRP_C2C.02.02\.m2\repository\org\seleniumhq\selenium\selenium-remote-driver\3.141.59\selenium-remote-driver-3.141.59.jar C:\Users\A08019DIRP_C2C.02.02\.m2\repository\org\seleniumhq\selenium\selenium-safari-driver\3.141.59\selenium-safari-driver-3.141.59.jar C:\Users\A08019DIRP_C2C.02.02\.m2\repository\org\seleniumhq\selenium\selenium-support\3.141.59\selenium-support-3.141.59.jar C:\Users\A08019DIRP_C2C.02.02\.m2\repository\net\bytebuddy\byte-buddy\1.8.15\byte-buddy-1.8.15.jar C:\Users\A08019DIRP_C2C.02.02\.m2\repository\org\apache\commons\commons-exec\1.3\commons-exec-1.3.jar C:\Users\A08019DIRP_C2C.02.02\.m2\repository\com\google\guava\guava\25.0-jre\guava-25.0-jre.jar C:\Users\A08019DIRP_C2C.02.02\.m2\repository\com\google\code\findbugs\jsr305\1.3.9\jsr305-1.3.9.jar C:\Users\A08019DIRP_C2C.02.02\.m2\repository\org\checkerframework\checker-compat-qual\2.0.0\checker-compat-qual-2.0.0.jar C:\Users\A08019DIRP_C2C.02.02\.m2\repository\com\google\errorprone\error_prone_annotations\2.1.3\error_prone_annotations-2.1.3.jar C:\Users\A08019DIRP_C2C.02.02\.m2\repository\com\google\j2objc\j2objc-annotations\1.1\j2objc-annotations-1.1.jar C:\Users\A08019DIRP_C2C.02.02\.m2\repository\org\codehaus\mojo\animal-sniffer-annotations\1.14\animal-sniffer-annotations-1.14.jar C:\Users\A08019DIRP_C2C.02.02\.m2\repository\com\squareup\okhttp3\okhttp\3.11.0\okhttp-3.11.0.jar C:\Users\A08019DIRP_C2C.02.02\.m2\repository\com\squareup\okio\okio\1.14.0\okio-1.14.0.jar
+  VMArgs:    -ea
+  Class:     org.testng.remote.RemoteTestNG
+  Args:      -serport 60179 -protocol json -d C:\Jenkins\JenkinsProject\SeleniumTestProj\test-output C:\Users\A08019~1.02\AppData\Local\Temp\testng-eclipse--1118535737\testng-customsuite.xml
+java -ea -classpath C:\Jenkins\eclipse-jee-oxygen-M2-win32-x86_64\eclipse\plugins\org.testng.eclipse_6.9.13.201609291640\lib\testng-remote.jar:C:\Jenkins\JenkinsProject\SeleniumTestProj\target\test-classes:C:\Jenkins\JenkinsProject\SeleniumTestProj\target\classes:C:\Jenkins\eclipse-jee-oxygen-M2-win32-x86_64\eclipse\plugins\org.testng.eclipse_6.9.13.201609291640\lib\testng.jar:C:\Jenkins\eclipse-jee-oxygen-M2-win32-x86_64\eclipse\plugins\org.testng.eclipse_6.9.13.201609291640\lib\jcommander.jar:C:\Jenkins\eclipse-jee-oxygen-M2-win32-x86_64\eclipse\plugins\org.testng.eclipse_6.9.13.201609291640\lib\bsh-2.0b4.jar:C:\Jenkins\eclipse-jee-oxygen-M2-win32-x86_64\eclipse\plugins\org.testng.eclipse_6.9.13.201609291640\lib\snakeyaml.jar:C:\Users\A08019DIRP_C2C.02.02\.m2\repository\org\testng\testng\6.14.3\testng-6.14.3.jar:C:\Users\A08019DIRP_C2C.02.02\.m2\repository\com\beust\jcommander\1.72\jcommander-1.72.jar:C:\Users\A08019DIRP_C2C.02.02\.m2\repository\org\apache-extras\beanshell\bsh\2.0b6\bsh-2.0b6.jar:C:\Users\A08019DIRP_C2C.02.02\.m2\repository\org\webjars\npm\selenium-webdriver\2.53.3\selenium-webdriver-2.53.3.jar:C:\Users\A08019DIRP_C2C.02.02\.m2\repository\org\webjars\npm\adm-zip\0.4.4\adm-zip-0.4.4.jar:C:\Users\A08019DIRP_C2C.02.02\.m2\repository\org\webjars\npm\ws\2.0.0-beta.2\ws-2.0.0-beta.2.jar:C:\Users\A08019DIRP_C2C.02.02\.m2\repository\org\webjars\npm\ultron\1.1.1\ultron-1.1.1.jar:C:\Users\A08019DIRP_C2C.02.02\.m2\repository\org\webjars\npm\tmp\0.0.24\tmp-0.0.24.jar:C:\Users\A08019DIRP_C2C.02.02\.m2\repository\org\webjars\npm\xml2js\0.4.4\xml2js-0.4.4.jar:C:\Users\A08019DIRP_C2C.02.02\.m2\repository\org\webjars\npm\sax\0.6.1\sax-0.6.1.jar:C:\Users\A08019DIRP_C2C.02.02\.m2\repository\org\webjars\npm\xmlbuilder\10.0.0\xmlbuilder-10.0.0.jar:C:\Users\A08019DIRP_C2C.02.02\.m2\repository\org\webjars\npm\rimraf\2.6.3\rimraf-2.6.3.jar:C:\Users\A08019DIRP_C2C.02.02\.m2\repository\org\webjars\npm\glob\7.1.3\glob-7.1.3.jar:C:\Users\A08019DIRP_C2C.02.02\.m2\repository\org\webjars\npm\inflight\1.0.6\inflight-1.0.6.jar:C:\Users\A08019DIRP_C2C.02.02\.m2\repository\org\webjars\npm\wrappy\1.0.2\wrappy-1.0.2.jar:C:\Users\A08019DIRP_C2C.02.02\.m2\repository\org\webjars\npm\fs.realpath\1.0.0\fs.realpath-1.0.0.jar:C:\Users\A08019DIRP_C2C.02.02\.m2\repository\org\webjars\npm\path-is-absolute\1.0.1\path-is-absolute-1.0.1.jar:C:\Users\A08019DIRP_C2C.02.02\.m2\repository\org\webjars\npm\inherits\2.0.3\inherits-2.0.3.jar:C:\Users\A08019DIRP_C2C.02.02\.m2\repository\org\webjars\npm\once\1.4.0\once-1.4.0.jar:C:\Users\A08019DIRP_C2C.02.02\.m2\repository\org\webjars\npm\minimatch\3.0.4\minimatch-3.0.4.jar:C:\Users\A08019DIRP_C2C.02.02\.m2\repository\org\webjars\npm\brace-expansion\1.1.11\brace-expansion-1.1.11.jar:C:\Users\A08019DIRP_C2C.02.02\.m2\repository\org\webjars\npm\balanced-match\1.0.0\balanced-match-1.0.0.jar:C:\Users\A08019DIRP_C2C.02.02\.m2\repository\org\webjars\npm\concat-map\0.0.1\concat-map-0.0.1.jar:C:\Users\A08019DIRP_C2C.02.02\.m2\repository\org\seleniumhq\selenium\selenium-java\3.141.59\selenium-java-3.141.59.jar:C:\Users\A08019DIRP_C2C.02.02\.m2\repository\org\seleniumhq\selenium\selenium-api\3.141.59\selenium-api-3.141.59.jar:C:\Users\A08019DIRP_C2C.02.02\.m2\repository\org\seleniumhq\selenium\selenium-chrome-driver\3.141.59\selenium-chrome-driver-3.141.59.jar:C:\Users\A08019DIRP_C2C.02.02\.m2\repository\org\seleniumhq\selenium\selenium-edge-driver\3.141.59\selenium-edge-driver-3.141.59.jar:C:\Users\A08019DIRP_C2C.02.02\.m2\repository\org\seleniumhq\selenium\selenium-firefox-driver\3.141.59\selenium-firefox-driver-3.141.59.jar:C:\Users\A08019DIRP_C2C.02.02\.m2\repository\org\seleniumhq\selenium\selenium-ie-driver\3.141.59\selenium-ie-driver-3.141.59.jar:C:\Users\A08019DIRP_C2C.02.02\.m2\repository\org\seleniumhq\selenium\selenium-opera-driver\3.141.59\selenium-opera-driver-3.141.59.jar:C:\Users\A08019DIRP_C2C.02.02\.m2\repository\org\seleniumhq\selenium\selenium-remote-driver\3.141.59\selenium-remote-driver-3.141.59.jar:C:\Users\A08019DIRP_C2C.02.02\.m2\repository\org\seleniumhq\selenium\selenium-safari-driver\3.141.59\selenium-safari-driver-3.141.59.jar:C:\Users\A08019DIRP_C2C.02.02\.m2\repository\org\seleniumhq\selenium\selenium-support\3.141.59\selenium-support-3.141.59.jar:C:\Users\A08019DIRP_C2C.02.02\.m2\repository\net\bytebuddy\byte-buddy\1.8.15\byte-buddy-1.8.15.jar:C:\Users\A08019DIRP_C2C.02.02\.m2\repository\org\apache\commons\commons-exec\1.3\commons-exec-1.3.jar:C:\Users\A08019DIRP_C2C.02.02\.m2\repository\com\google\guava\guava\25.0-jre\guava-25.0-jre.jar:C:\Users\A08019DIRP_C2C.02.02\.m2\repository\com\google\code\findbugs\jsr305\1.3.9\jsr305-1.3.9.jar:C:\Users\A08019DIRP_C2C.02.02\.m2\repository\org\checkerframework\checker-compat-qual\2.0.0\checker-compat-qual-2.0.0.jar:C:\Users\A08019DIRP_C2C.02.02\.m2\repository\com\google\errorprone\error_prone_annotations\2.1.3\error_prone_annotations-2.1.3.jar:C:\Users\A08019DIRP_C2C.02.02\.m2\repository\com\google\j2objc\j2objc-annotations\1.1\j2objc-annotations-1.1.jar:C:\Users\A08019DIRP_C2C.02.02\.m2\repository\org\codehaus\mojo\animal-sniffer-annotations\1.14\animal-sniffer-annotations-1.14.jar:C:\Users\A08019DIRP_C2C.02.02\.m2\repository\com\squareup\okhttp3\okhttp\3.11.0\okhttp-3.11.0.jar:C:\Users\A08019DIRP_C2C.02.02\.m2\repository\com\squareup\okio\okio\1.14.0\okio-1.14.0.jar org.testng.remote.RemoteTestNG -serport 60179 -protocol json -d C:\Jenkins\JenkinsProject\SeleniumTestProj\test-output C:\Users\A08019~1.02\AppData\Local\Temp\testng-eclipse--1118535737\testng-customsuite.xml
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-04-17 11:23:55.517
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-04-17 11:23:55.520
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.jface.text 2 0 2019-04-17 12:12:54.215
+!MESSAGE Duplicate template id: 'org.eclipse.wst.xslt.templates.xpath.number'
+
+!ENTRY org.eclipse.jface.text 2 0 2019-04-17 12:12:54.216
+!MESSAGE Duplicate template id: 'org.eclipse.wst.xslt.templates.xpath.round'
+
+!ENTRY org.eclipse.jface.text 2 0 2019-04-17 12:12:55.367
+!MESSAGE Duplicate template id: 'org.eclipse.wst.xslt.templates.xpath.number'
+
+!ENTRY org.eclipse.jface.text 2 0 2019-04-17 12:12:55.368
+!MESSAGE Duplicate template id: 'org.eclipse.wst.xslt.templates.xpath.round'
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-04-17 12:21:58.342
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-04-17 12:21:58.345
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-04-17 12:37:14.988
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-04-17 12:37:14.991
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-04-17 12:41:32.697
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-04-17 12:41:32.700
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-04-17 12:46:36.694
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-04-17 12:46:36.697
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-04-17 12:46:36.742
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-04-17 12:46:38.072
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-04-17 12:46:38.075
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
